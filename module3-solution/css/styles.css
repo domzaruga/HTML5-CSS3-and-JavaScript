@@ -1,1 +1,55 @@
+#page-heady {text-align: center;
+	font-size: 4em;
+	margin-top: 10px;
+}
 
+#chicken {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 25px;
+	background-color:#999;
+}
+#chicken h3{
+
+	text-align: center;
+	font-size: 2em;
+	margin-bottom: 10px;
+}
+p {
+	font-size: 1em;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+#beef {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 25px;
+	background-color:#999;
+}
+#beef h3{
+
+	text-align: center;
+	font-size: 2em;
+	margin-bottom: 10px;
+}
+#Sushi {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 25px;
+	background-color:#999;
+}
+#Sushi h3{
+
+	text-align: center;
+	font-size: 2em;
+	margin-bottom: 10px;
+}
+
+div .navbar-brand a#dominik{
+	text-decoration: none;
+	color: black;
+}
+div#navbarToggleExternalContent li a{
+	color: black;
+}
